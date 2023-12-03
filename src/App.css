@@ -347,10 +347,15 @@ footer ul li{
   }
 
   .LL-BookingConfirmation {
+    align-items: center;
     padding: 0 3.75rem;
     display: flex;
     flex-direction: column;
     gap: 1.25rem;
+  }
+
+  .LL-BookingConfirmation img{
+    height: 500px;
   }
 
 
