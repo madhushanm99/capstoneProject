@@ -4,7 +4,9 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      {/* Content for the footer */}
+      <p>&copy; 2023 Little Lemon. All rights reserved.</p>
+      <p>Address: 123 Lemon Street, Lemonville</p>
+      <p>Email: info@littlelemon.com</p>
     </footer>
   );
 }
